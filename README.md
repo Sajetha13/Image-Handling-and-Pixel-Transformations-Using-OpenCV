@@ -58,7 +58,7 @@ plt.show()
 
 #### 4. Save the image as a PNG file using OpenCV imwrite().
 ```python
-# YOUR CODE HERE
+# (already done)
 ```
 
 #### 5. Read the saved image above as a color image using cv2.cvtColor().
